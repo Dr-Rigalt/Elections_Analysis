@@ -1,6 +1,6 @@
 # Elections_Analysis
 
-##Project Overview
+## Project Overview
 
 A colorado Board of elections employee needs to complete the election audit of a recent local congressional election.
 1. Calculate the total number of cast.
@@ -12,12 +12,12 @@ A colorado Board of elections employee needs to complete the election audit of a
 7. Calculate the precentage of votes each candidate won.
 8. Determine the winner of the election based on popular vote.
 
-##Resocurces
+## Resocurces
 
 Data Source:election_results.csv
 Softaware: Python 3.8.8, Visual Studio Code 1.60.2 (Universal)
 
-##Summary
+## Summary
 
 There were 369,711 votes cast in election.
 
